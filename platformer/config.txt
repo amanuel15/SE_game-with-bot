@@ -1,0 +1,13 @@
+number of keys per option = <3>
+=======option 1=======
+left= <w>
+right= <d>
+jump= <SPACE>
+=======option 2=======
+left= <LEFT>
+right= <RIGHT>
+jump= <SPACE>
+=======option 3=======
+left= <w>
+right= <d>
+jump= <SPACE>
